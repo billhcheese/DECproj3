@@ -23,7 +23,7 @@ The serve schema has 1000+ tables as an output.
 
 ![](schemas.png)
 
-![](sercve_schema.png)
+![](serve_schema.png)
 
 ![](workflow.png)
 
